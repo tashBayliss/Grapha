@@ -10,6 +10,7 @@ A graphing calculator
 |Requirements |          |    |
 |Specification|          |    |
 |Design       |          |    |
+|Testing      |          |    |
 |Report       |          |    |
 
 ## Contributors 
