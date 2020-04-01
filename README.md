@@ -4,8 +4,8 @@ A graphing calculator
 
 ## Documentation
 
-|Name         |Link                                    |Date|
-|:-----------:|:--------------------------------------:|:--:|
+|Name         |Link                                 |Date|
+|:-----------:|:-----------------------------------:|:--:|
 |Initial Ideas|[Initial-Ideas](doc/InitialIdeas.md) |    |
 |Requirements |[Requirements](doc/Requirements.md)  |    |
 |Specification|[Specification](doc/Specification.md)|    |
