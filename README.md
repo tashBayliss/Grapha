@@ -1,5 +1,6 @@
 # Grapha
-graphing calculator 
+
+A graphing calculator
 
 ## Documentation
 
