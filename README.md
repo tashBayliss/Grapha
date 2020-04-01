@@ -1,5 +1,6 @@
 # Grapha
-graphing calculator 
+
+A graphing calculator.
 
 ## Documentation
 
@@ -11,6 +12,7 @@ graphing calculator
 |Design       |          |
 |Report       |          |
 
-## Contributors 
+## Contributors
+
 - Archie
-- Tash 
+- Tash
