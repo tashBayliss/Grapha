@@ -6,7 +6,9 @@ graphing calculator
 |Name         |Link      |
 |:-----------:|:--------:|
 |Initial Ideas|          |
-|Designs      |          |
+|Requirements |          |
+|Specification|          |
+|Design       |          |
 |Report       |          |
 
 ## Contributors 
