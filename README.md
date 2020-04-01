@@ -3,14 +3,14 @@ graphing calculator
 
 ## Documentation
 
-|Name         |Link      |
-|:-----------:|:--------:|
-|Initial Ideas|          |
-|Requirements |          |
-|Specification|          |
-|Design       |          |
-|Report       |          |
+|Name         |Link      |Date|
+|:-----------:|:--------:|:--:|
+|Initial Ideas|          |    |
+|Requirements |          |    |
+|Specification|          |    |
+|Design       |          |    |
+|Report       |          |    |
 
 ## Contributors 
-- Archie
-- Tash 
+- [Archie](https://github.com/thytom)
+- [Tash](https://github.com/tashBayliss/) 
