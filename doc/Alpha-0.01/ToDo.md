@@ -1,5 +1,5 @@
-# To Do
-- [ ] Requirements
+# To Do - Alpha 0.01
+- [X] [Requirements](Requirements.md)
 - [ ] Specification
     - [ ] Specifications
     - [ ] Activity Diagrams
