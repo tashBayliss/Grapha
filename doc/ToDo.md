@@ -1,7 +1,7 @@
 # To Do
 
 **NOTE: This todo list and all the documentation it points to is to do with
-version 1.0, which won't be finished for a while.**
+version 1.0+, which won't be finished for a while.**
 
 - [X] [InitialIdeas.md](Initial Ideas)
 - [X] [RefinedIdeas.md](Refined Ideas)
@@ -9,7 +9,6 @@ version 1.0, which won't be finished for a while.**
     - [ ] Project Brief
     - [ ] Use Case Diagrams
     - [ ] Requirements
-    - [ ] Personas
 - [ ] Specification
     - [ ] Specifications
     - [ ] Activity Diagrams

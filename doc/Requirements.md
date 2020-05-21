@@ -27,4 +27,3 @@ specified by the user.
 
 ## Requirements
 
-## Personas
