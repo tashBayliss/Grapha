@@ -1,6 +1,10 @@
 # To Do
 
-- [ ] Initial Ideas
+**NOTE: This todo list and all the documentation it points to is to do with
+version 1.0, which won't be finished for a while.**
+
+- [X] [InitialIdeas.md](Initial Ideas)
+- [X] [RefinedIdeas.md](Refined Ideas)
 - [ ] Requirements
     - [ ] Project Brief
     - [ ] Use Case Diagrams
