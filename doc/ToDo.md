@@ -5,17 +5,4 @@ version 1.0+, which won't be finished for a while.**
 
 - [X] [Initial Ideas](InitialIdeas.md)
 - [X] [Refined Ideas](RefinedIdeas.md)
-- [ ] Requirements
-    - [X] Project Brief
-    - [ ] Requirements
-- [ ] Specification
-    - [ ] Specifications
-    - [ ] Activity Diagrams
-    - [ ] Sequence Diagrams
-- [ ] Design
-    - [ ] Prototypes
-- [ ] Testing
-    - [ ] Written Test Plan
-    - [ ] Initial Test Table Plan
-    - [ ] Test Table
-- [ ] Report
+- [X] Project Brief

@@ -22,9 +22,3 @@ Users' sessions should able to be saved into a file, as well as loaded up, so
 they can continue on with their work at a later date. If a file has been saved
 and is currently being worked on, it should autosave the file with a timeframe
 specified by the user.
-
-## Requirements
-
-### Overall Requirements
-
-
