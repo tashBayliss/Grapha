@@ -7,7 +7,6 @@ version 1.0+, which won't be finished for a while.**
 - [X] [RefinedIdeas.md](Refined Ideas)
 - [ ] Requirements
     - [ ] Project Brief
-    - [ ] Use Case Diagrams
     - [ ] Requirements
 - [ ] Specification
     - [ ] Specifications

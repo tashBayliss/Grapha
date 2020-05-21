@@ -23,7 +23,5 @@ they can continue on with their work at a later date. If a file has been saved
 and is currently being worked on, it should autosave the file with a timeframe
 specified by the user.
 
-## Use Case Diagrams
-
 ## Requirements
 
