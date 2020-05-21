@@ -2,10 +2,10 @@
 
 - [ ] Initial Ideas
 - [ ] Requirements
-    - [ ] Requirements
     - [ ] Project Brief
-    - [ ] Personas
     - [ ] Use Case Diagrams
+    - [ ] Requirements
+    - [ ] Personas
 - [ ] Specification
     - [ ] Specifications
     - [ ] Activity Diagrams
