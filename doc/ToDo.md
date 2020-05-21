@@ -3,10 +3,10 @@
 **NOTE: This todo list and all the documentation it points to is to do with
 version 1.0+, which won't be finished for a while.**
 
-- [X] [InitialIdeas.md](Initial Ideas)
-- [X] [RefinedIdeas.md](Refined Ideas)
+- [X] [Initial Ideas](InitialIdeas.md)
+- [X] [Refined Ideas](RefinedIdeas.md)
 - [ ] Requirements
-    - [ ] Project Brief
+    - [X] Project Brief
     - [ ] Requirements
 - [ ] Specification
     - [ ] Specifications
