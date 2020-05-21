@@ -2,7 +2,7 @@
 - [X] [Requirements](Requirements.md)
 - [ ] Specification
     - [ ] Specifications
-    - [ ] Activity Diagrams
+	- [ ] Class Diagram
 - [ ] Design
     - [ ] Prototypes
 - [ ] Testing
