@@ -3,7 +3,6 @@
 - [ ] Specification
     - [ ] Specifications
     - [ ] Activity Diagrams
-    - [ ] Sequence Diagrams
 - [ ] Design
     - [ ] Prototypes
 - [ ] Testing
